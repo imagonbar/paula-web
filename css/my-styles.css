@@ -6,7 +6,7 @@ html, body, h1, h2, h3, h4, h5, h6 {
 .fondo_nombre{
     background-color: #80808096;
 }
-.redondeado{}
+.redondeado{
     border-radius: 60px 60px 60px 60px;
     -moz-border-radius: 60px 60px 60px 60px;
     -webkit-border-radius: 60px 60px 60px 60px;
