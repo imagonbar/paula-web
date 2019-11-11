@@ -1,0 +1,16 @@
+html, body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", sans-serif
+}
+
+
+.fondo_nombre{
+    background-color: #80808096;
+}
+.redondeado{}
+    border-radius: 60px 60px 60px 60px;
+    -moz-border-radius: 60px 60px 60px 60px;
+    -webkit-border-radius: 60px 60px 60px 60px;
+    border: 0px solid #000000;
+    padding: 5px 10px;
+    style="background-color: #80808096;"
+}
